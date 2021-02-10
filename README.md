@@ -1,5 +1,5 @@
 # BasicCalc
-A basic calculator which runs on command line window link powershell or cmd
+A basic calculator which runs on command line window like powershell or cmd.
 I used python version = 3.6.8, any python3 version is suiatble for this code to run.
 
 Prerequisites to run this code -
